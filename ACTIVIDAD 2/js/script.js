@@ -1,9 +1,13 @@
 function saludar() {
     alert("¡Hola mundo!");
-    alert(":)");
+    emoji();
 }
 
 function despedirse() {
     alert("¡Adios mundo!");
-    alert(";)");
+    emoji();
+}
+
+function emoji() {
+    alert(":)");
 }
