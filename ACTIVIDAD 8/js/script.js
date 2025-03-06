@@ -51,7 +51,7 @@ function Comprobarconswitch() {
             case 4:
             case 5:
             case 6:
-                document.getElementById("resultado").innerHTML = "Buenas tardes";
+                document.getElementById("resultado").innerHTML = "Buenas noches";
             break;
             default:
                 document.getElementById("resultado").innerHTML = "Esta hora no es válida.";
